@@ -6,7 +6,7 @@ This repository contains code / resources to get started with Java. This materia
 
 ## Use
 1. Clone the repository to your computer.
-2. Using VSCode, open InitialTest.java
+2. Using VSCode, open **InitialTest.java**
 3. Try running this file by pressing the 'play' button at the top right of the window
 4. A number of pop-ups will show if you haven't installed Java. Follow all the pop-up instructions to install Java *IF asked if you want to use a default version, click yes*
 5. It will take a while to run the first time you try; be patient. You may need to try and run it twice.
