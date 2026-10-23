@@ -12,7 +12,7 @@ This repository contains code / resources to get started with Java. This materia
 5. It will take a while to run the first time you try; be patient. You may need to try and run it twice.
 6. The output terminal should have a message if you've installed it properly.
 7. I recommend changing the terminal output:
-    a.  (Ctrl + , on Windows/Linux or Cmd + , on macOS).
-    b. Search for java.debug.settings.console in the top search bar.
-    c. Change the dropdown setting from integratedTerminal to internalConsole
+   a.  (Ctrl + , on Windows/Linux or Cmd + , on macOS).
+   b. Search for java.debug.settings.console in the top search bar.
+   c. Change the dropdown setting from integratedTerminal to internalConsole
     
