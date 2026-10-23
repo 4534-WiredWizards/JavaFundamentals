@@ -15,4 +15,9 @@ This repository contains code / resources to get started with Java. This materia
     - (Ctrl + , on Windows/Linux or Cmd + , on macOS).
     - Search for java.debug.settings.console in the top search bar.
     - Change the dropdown setting from integratedTerminal to internalConsole
-    
+
+## Links
+These are links to the material that we'll go through together. 
+1. [Java Programming Basics](https://www.geeksforgeeks.org/java/java-programming-basics/)
+2. [Java Language Basics](https://dev.java/learn/language/constructs/basics/)
+3. [Java Exercises](https://www.geeksforgeeks.org/java/java-exercises/)
