@@ -11,7 +11,7 @@ public class StateBasedControlIntro {
                 break;
             case 3:
                 System.out.println("Wednesday");
-                //break;
+                break;
             default:
                 System.out.println("Other day");
         }
